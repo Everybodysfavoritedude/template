@@ -2,7 +2,7 @@
 
 [Master Stylesheet]
 
-Project: GLOBALNEWS - News & magazine theme 
+Project: GLOBALNEWS - News & magazine theme
 Version: 1.0
 Author : Webyzona.com
 
@@ -16,7 +16,7 @@ Author : Webyzona.com
    - 1-5 BREADCRUMB
    - 1-6 SUB INFO
    - 1-7 MODAL BOX
-   
+
 2. TYPOGRAPHY
    - 2-1 LINKS
    - 2-2 HEADERS
@@ -31,21 +31,21 @@ Author : Webyzona.com
    - 4-2 TIME AND DATE
    - 4-3 WEATHER
    - 4-4 SITE LOGO
-   
+
 5. NAVIGATION
    - 5-1 PARENT NAVIGATION
    - 5-2 CHILD NAVIGATION
-   
+
 6. SEARCH
 
 7. HOT NEWS
-	
+
 8. BANNER AND OWL CAROUSEL
 	- 8-1 OWL CAROUSEL PROGRESS BAR
 	- 8-2 OWL CAROUSEL CONTROLS
     - 8-2 OVERLAY ON IMAGES
 	- 8-2 OWL CAROUSEL SYNC
-	
+
 9. LEFT COLUMN
 	- 9-1 BUSINESS SECTION
 	- 9-2 SCIENCE AND TRAVEL
@@ -57,7 +57,7 @@ Author : Webyzona.com
 	- 9-8 FAQs
 	- 9-9 CONTACT
 	-9-10 HOME-2
-	
+
 10-MID COLUMN
 
 11.RIGHT COLUMN
@@ -1037,7 +1037,7 @@ none;
 	line-height: 0;
 }
 .match-height {
-	max-height: 434px;
+	max-height: 448px;
 	overflow: hidden;
 }
 .overlay {
